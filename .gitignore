@@ -1,0 +1,11 @@
+# Kilo local agent state
+.kilo/
+
+# Environment / secrets
+.env
+
+# C build artifacts
+*.o
+*.out
+*.exe
+a.out
